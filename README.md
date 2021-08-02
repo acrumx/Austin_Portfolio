@@ -1,5 +1,5 @@
 # Austin_Portfolio
-Data Portfolio
+Data Analytics Portfolio
 
 
 # Superstore Sales Forecasting & Data Analysis
